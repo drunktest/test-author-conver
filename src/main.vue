@@ -13,7 +13,9 @@ export const title = '标题';
 // this is a comment from drunktest's branch
 export const content = '描述2';
 export const value1 = ref('1989-02-15');
+// this is a comment from test
 export const search = ref('1989-02-15');
+// a test comment from drunk
 export const value = ref('2018-02-15');
 // this comment from drunk
 
