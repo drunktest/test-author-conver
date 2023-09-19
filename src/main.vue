@@ -10,6 +10,7 @@ import {ref, watch} from 'vue';
 export {default as Inside} from './inside.vue';
 
 // a comment from test
+// comment 2 from test
 
 export const title = '标题';
 // this is a comment from drunktest's branch
