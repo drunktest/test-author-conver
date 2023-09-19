@@ -10,6 +10,7 @@ import {ref, watch} from 'vue';
 export {default as Inside} from './inside.vue';
 
 // a comment from test
+// comment 2 from test
 
 export const title = '标题';
 // this is a comment from drunktest's branch
@@ -30,3 +31,5 @@ watch(value, (v, v0) => console.log(v, v0));
 // a comment from test
 
 // a comment from drunk
+
+// comment 2 from drunk
