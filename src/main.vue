@@ -9,6 +9,8 @@ import {ref, watch} from 'vue';
 
 export {default as Inside} from './inside.vue';
 
+// a comment from test
+
 export const title = '标题';
 // this is a comment from drunktest's branch
 export const content = '描述2';
@@ -24,3 +26,7 @@ export const console = window.console;
 watch(value1, (v, v0) => console.log(v, v0));
 watch(value, (v, v0) => console.log(v, v0));
 </script>
+
+// a comment from test
+
+// a comment from drunk
