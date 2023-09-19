@@ -30,3 +30,5 @@ watch(value, (v, v0) => console.log(v, v0));
 // a comment from test
 
 // a comment from drunk
+
+// comment 2 from drunk
