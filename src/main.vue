@@ -15,6 +15,7 @@ export const content = '描述2';
 export const value1 = ref('1989-02-15');
 export const search = ref('1989-02-15');
 export const value = ref('2018-02-15');
+// this comment from drunk
 
 export const console = window.console;
 
