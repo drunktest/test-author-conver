@@ -25,4 +25,6 @@ watch(value1, (v, v0) => console.log(v, v0));
 watch(value, (v, v0) => console.log(v, v0));
 </script>
 
+// a comment from test
+
 // a comment from drunk
