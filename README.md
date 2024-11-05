@@ -12,7 +12,7 @@ TypeError: Cannot read property 'content' of null
     at Object.selectBlock (D:\Temp\vue3\1\node_modules\vue-loader\dist\select.js:25:45)
     at Object.loader (D:\Temp\vue3\1\node_modules\vue-loader\dist\index.js:60:25)
 ```
-
+dsadasdas
 经过跟踪排查, 发现在前行插入下述代码, 多次编译都能正常通过, 但我感觉这不是解决之道
 ``` js
         if (incomingQuery.type === 'script' && !descriptor.scriptCompiled && descriptor.scriptSetup) {
